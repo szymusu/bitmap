@@ -1,0 +1,136 @@
+body
+{
+    text-align: center;
+    justify-content: center;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    font-family: monospace;
+}
+
+div
+{
+    font-size: 20px;
+    margin: 10px;
+    margin-bottom: 50px;
+    padding: 15px;
+    text-align: left;
+}
+
+p
+{
+    clear: both;
+    user-select: text;
+}
+
+footer
+{
+    font-size: 20px;
+    padding: 40px;
+    position: static;
+    margin: 10px;
+    bottom: 0;
+}
+
+textarea
+{
+    resize: none;
+}
+
+.fl
+{
+    float: left;
+    margin-left: 0;
+    margin-right: 40px;
+    border: red dashed 1px;
+}
+
+.button
+{
+    background-color: red;
+    color: #eee;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.container
+{
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
+
+.bit1
+{
+    border: dashed red 0px;
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+.bit0
+{
+    border: dashed red 0px;
+    padding: 0;
+    margin: 0;
+    background-color: white;
+}
+
+.row
+{
+    padding: 0;
+    margin: 0;
+    border: dashed yellow 0px;
+}
+
+.sum
+{
+    width: 100%;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+    font-weight: 900;
+}
+
+.b32
+{
+    height: 28px;
+    width: 28px;
+}
+.b128
+{
+    height: 12px;
+    width: 12px;
+    font-size: 11px;
+}
+
+.debug
+{
+    border: dashed red 3px;
+    background-color: #eee;
+}
+
+.g-recaptcha
+{
+    float: left;
+    margin: 0;
+}
+
+.listcell
+{
+    border-bottom: dashed red 1px;
+    border-right: dashed red 1px;
+    white-space: normal !important;
+    word-wrap: break-word;
+}
+
+#json
+{
+    white-space: normal !important;
+    word-wrap: break-word;
+    font-size: 10px;
+}
