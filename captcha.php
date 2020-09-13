@@ -2,7 +2,7 @@
 
 class Captcha
 {
-    static string $secret = "6Lc7veYUAAAAAOpV3w9_rciwj51RnVqtQNT7gIzS";
+    static string $secret = "6Lc7veYUAAAAAOpV3w9_rciwj51RnVqtQNT7gIzS"; //no to niezły secret
 
     public static function Verify($response)
     {
