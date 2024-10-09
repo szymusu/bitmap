@@ -9,7 +9,7 @@ $_SESSION['SERVER_ERROR'] = '{"bitRate":128,"rows":32,"addrArr":["::","::","1c7c
         <title>Bitart - lelenet.pl</title>
         <link rel="icon" href="Xd.png">
         <link rel="stylesheet" type="text/css" href="style.css">
-        <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+        <script src="https://code.jquery.com/jquery-3.7.1.js.js"></script>
         <script src="https://www.google.com/recaptcha/api.js" async defer></script>
         <script type="text/javascript" src="ipaddr.js"></script>
         <script type="text/javascript" src="converter.js"></script>
